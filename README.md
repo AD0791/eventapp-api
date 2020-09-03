@@ -1,3 +1,5 @@
 # Strapi application
 
-A quick description of your strapi application
+---
+
+Event Application rest API server with simple Sqlite database.
